@@ -4,7 +4,7 @@ title: Roerdompen
 img: ''
 buwalink: 'https://buwa.nl'
 youtubemovie: 'https://www.youtube.com/embed/G97CZpkgoL8?rel=0&amp;showinfo=0&amp;start=0'
-category: live
+category: hoogtepunt
 ---
 
 Zes roerdompen zijn met een zender uitgerust zodat we precies kunnen zien wat
