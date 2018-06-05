@@ -16,6 +16,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Title", name: "title", widget: "string", tagname: "h1"}
       - {label: "Video Thumb", name: "img", widget: "image", required: false}
       - {label: "Buwa Link", name: "buwalink", widget: "string", required: false}
+      - {label: "Livestream Link", name: "livestream", widget: "string", required: false}
       - {label: "Youtube Embed Link", name: "youtubemovie", widget: "string", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Categories", name: "category", widget: "select", options: ["live", "hoogtepunt"]}
