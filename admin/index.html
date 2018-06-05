@@ -3,4 +3,27 @@
 </head>
 <body>
   <script src="https://unpkg.com/netlify-cms/dist/cms.js"></script>
+  <script>
+
+    var PublishControl = createClass({
+
+      handleClick: function(e) {
+        alert('jo');
+      },
+      render: function() {
+        var value = this.props.value;
+        return h('div', {className: 'nc-controlPane-widget'},
+          h('input', { type: 'button', className: 'nc-collectionPage-topNewButton', value: 'publish', onClick: this.handleClick })
+        );
+      }
+    });
+
+    var PublishPreview = createClass({
+      render: function() {
+        return h('input', { type: 'button', value: 'publish', onClick: this.handleClick });
+      }
+    });
+
+    CMS.registerWidget('publish', PublishControl, PublishPreview);
+  </script>
 </body>
