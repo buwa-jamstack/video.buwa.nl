@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Roerdompen
-img: ''
+img: /uploads/stil-hoogtepunt.png
 buwalink: 'https://buwa.nl'
 youtubemovie: 'https://www.youtube.com/embed/G97CZpkgoL8?rel=0&amp;showinfo=0&amp;start=0'
 category: hoogtepunt
