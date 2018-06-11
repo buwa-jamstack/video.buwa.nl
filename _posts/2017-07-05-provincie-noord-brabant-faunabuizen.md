@@ -2,7 +2,7 @@
 layout: post
 title: Faunabuizen Noord Brabant
 img: stil-hoogtepunt.png
-buwalink: 'https://buwa.nl'
+buwalink: 'https://www.buwa.nl/monitoren_faunapassages.html'
 youtubemovie: 'https://www.youtube.com/embed/tOOqDjDH4j8?rel=0&amp;showinfo=0&amp;start=0'
 category: hoogtepunt
 ---
